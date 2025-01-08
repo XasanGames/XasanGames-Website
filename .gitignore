@@ -1,0 +1,9 @@
+# User ignore dirs
+/.idea/
+/.venv/
+/share_netlify/
+/.vscode/
+/.pytest_cache/
+/.mypy_cache/
+/.tox/
+/.coverage
